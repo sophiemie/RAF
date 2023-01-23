@@ -1,0 +1,26 @@
+**** REPLACE THE main.cpp by this version
+
+// Encoders: supply GND and 3V3
+#define ENC1_A 27  //green  Right motor encoder
+#define ENC1_B 14  //blue 
+#define ENC2_A 19  // green  Left motor encoder
+#define ENC2_B 23  // blue
+
+// MOTOR DRIVER: supply to GND and Vin
+#define ML_A 26   // A-1A  Left motor +
+#define ML_B 25   // A-1B  Left Motor -
+#define MR_A 16   // B-1B  Right Motor -
+#define MR_B 17   // B-1A  Right Motor +
+
+#define SOLENOID_PIN 13  // connect to Magnet board (supply the board with GND and +5V)
+#define TOUCHSW_pin 12  // switch it to ground 
+
+//IR line sensor: Connect to GND and 3V3
+//Blue   IR1 IO33
+//Yellow IR2 IO32
+//Orange IR3 IO39
+//Green  IR4 IO36
+//White  IR5 IO34
+
+NVS.setString("SSID", "BIPRAFL");
+NVS.setString("PASS", "BIPRAFL23");
