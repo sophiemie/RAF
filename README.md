@@ -10,7 +10,7 @@ This project was created in the period from 09.01.2023 and 13.01.2023 for the BI
 
 ## Authors
 
-- [@sophiemie](https://www.github.com/sophiemie)
+- [Sophie Mießner](https://www.github.com/sophiemie)
 - [@josy12345](https://www.github.com/josy12345)
 - [@llzlby](https://www.github.com/llzlby)
 
