@@ -26,6 +26,6 @@ You can find the Documentation in Report_R@F_Group9.pdf.
 
 ## Related
 
-You can find the project for the simulation of the Robot@Factory here
+You can find the project for our simulation of the Robot@Factory here
 
 [RAF_Simulator](https://github.com/sophiemie/RAF_Simulator)
