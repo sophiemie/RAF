@@ -15,8 +15,6 @@ This project was created in the period from 09.01.2023 and 13.01.2023 for the BI
 - [Liu Lizhong](https://www.github.com/llzlby)
 
 
-
-
 ## Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
@@ -26,3 +24,8 @@ This project was created in the period from 09.01.2023 and 13.01.2023 for the BI
 
 You can find the Documentation in Report_R@F_Group9.pdf.
 
+## Related
+
+You can find the project for the simulation of the Robot@Factory here
+
+[RAF_Simulator](https://github.com/sophiemie/RAF_Simulator)
