@@ -6,7 +6,7 @@ This project was created in the period from 09.01.2023 and 13.01.2023 for the BI
 
 ## Acknowledgements
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Robot@Factory Lite: An Educational Approach for the Competition with Simulated and Real Environment](https://core.ac.uk/reader/323508990)
 
 ## Authors
 
