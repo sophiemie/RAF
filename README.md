@@ -16,8 +16,8 @@ This project was created in the period from 09.01.2023 and 13.01.2023 for the BI
 
 
 ## Screenshots
-<img src="/picture/scene10_2.jpg" width="40%" height="40%">
-<img src="/picture/all_components.jpg" width="40%" height="40%">
+<img src="/pictures/scene10_2.jpg" width="40%" height="40%">
+<img src="/pictures/all_components.jpg" width="40%" height="40%">
 
 
 ## Documentation
