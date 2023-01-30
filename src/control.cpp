@@ -228,15 +228,9 @@ void control(robot_t& robot)
       
     } else if (robot.state == 12) {  // Go: Get second box
       robot.solenoid_state = 1;    
-      //robot.followLineLeft(IRLine, 0.06, -0.022); // speed, turning    
-      
+      //robot.followLineLeft(IRLine, 0.06, -0.022); // speed, turning          
       robot.setRobotVW(0.1, 1.25);
 
-      /*if (robot.tis < 10000) 
-        robot.followLineLeft(IRLine, 0.2, -0.3); //0.06, -0.05); // -0.022 // 4000 vorheriger TH // 0.06 -0.022
-      else 
-        robot.followLineLeft(IRLine, 0.2, -0.05); // -0.022
-      //else robot.setRobotVW(0.1, 0);*/
      
      } else if (robot.state == 13) {
       robot.solenoid_state = 1;    
