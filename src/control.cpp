@@ -230,7 +230,6 @@ void control(robot_t& robot)
       robot.solenoid_state = 1;    
       //robot.followLineLeft(IRLine, 0.06, -0.022); // speed, turning          
       robot.setRobotVW(0.1, 1.25);
-
      
      } else if (robot.state == 13) {
       robot.solenoid_state = 1;    
