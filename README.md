@@ -16,8 +16,8 @@ This project was created in the period from 09.01.2023 and 13.01.2023 for the BI
 
 
 ## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="/picture/scene10_2.png" width="40%" height="40%">
+<img src="/picture/all_components.png" width="40%" height="40%">
 
 
 ## Documentation
