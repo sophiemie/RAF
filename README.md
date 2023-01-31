@@ -15,9 +15,22 @@ This project was created in the period from 09.01.2023 and 13.01.2023 for the BI
 - [Liu Lizhong](https://www.github.com/llzlby)
 
 
-## Screenshots
-<img src="/pictures/step10_2.jpg" width="40%" height="40%">
+## Run
+- Build the robot with the parts down below (you can find our building process in the documentation)
+- Clone the project
+```bash
+  git clone https://github.com/sophiemie/RAF
+```
+- Connect the ESP32 from the robot with your device and load the code on it
+- Turn the robot with the on/off switch on
+- Put the robot on the maze
+- Start it with the switch in front of the magnet
+
+### All robot-parts
 <img src="/pictures/all_components.jpg" width="40%" height="40%">
+
+### Our robot
+<img src="/pictures/step10_2.jpg" width="40%" height="40%">
 
 
 ## Documentation
