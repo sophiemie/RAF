@@ -22,7 +22,7 @@ This project was created in the period from 09.01.2023 and 13.01.2023 for the BI
 
 ## Documentation
 
-You can find the Documentation in Report_R@F_Group9.pdf.
+You can find the Documentation in Report_RAF_Group9.pdf.
 
 ## Related
 
