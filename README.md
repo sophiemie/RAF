@@ -7,7 +7,8 @@ This project was created in the period from 09.01.2023 and 13.01.2023 for the BI
 ## Acknowledgements
 
  - [Robot@Factory Lite: An Educational Approach for the Competition with Simulated and Real Environment](https://core.ac.uk/reader/323508990)
- - [Elements of Robotics] (https://link.springer.com/book/10.1007/978-3-319-62533-1)
+ - [Elements of Robotics](https://link.springer.com/book/10.1007/978-3-319-62533-1)
+ - [Lecture slides](https://e1.pcloud.link/publink/show?code=kZQdg8ZOmlzpKkXUF4TWcCg1aiYMJxM6Iak#folder=4475096407&tpl=publicfoldergrid)
 
 ## Authors
 
